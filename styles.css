@@ -3,6 +3,7 @@ body {
   background-color: #283149;
   background-image: url("images/2.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center center;
 }
 
